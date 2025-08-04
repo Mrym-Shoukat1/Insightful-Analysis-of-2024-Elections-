@@ -1,8 +1,14 @@
 # Insightful-Analysis-of-2024-Elections-
 Insightful analysis of the 2024 elections using data visualization to uncover key voting trends and patterns.
 
+
+
 📌 Note: This project was originally created 1 year ago on Kaggle.
 🔗 View original notebook here: Kaggle Notebook link    https://www.kaggle.com/code/mustafashoukat/insightful-analysis-of-2024-elections
+
+
+
+
 
 <img width="804" height="383" alt="image" src="https://github.com/user-attachments/assets/898e8e62-50b9-4f05-8b5f-335d7a8f052e" />
 
